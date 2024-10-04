@@ -8,6 +8,5 @@ func main() {
 
 	// Initialiaze Router
 	router.Initialize()
-	
 
 }
